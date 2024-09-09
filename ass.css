@@ -1,0 +1,28 @@
+header{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.class2{
+    display: flex;
+    flex: content;
+    justify-content: space-evenly;
+    padding: 20px 40px;
+    text-align: center;
+}
+.nav1{
+    display: flex;
+   
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding-left: 20px;
+
+}
+.nav1 li{
+    padding: 30px;
+}
+.items{
+    display: flex;
+    
+}
